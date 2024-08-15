@@ -5,4 +5,5 @@
 - Randomization Algorithm: Enhance the randomization algorithm to ensure a more statistically accurate distribution of dice roll outcomes.
 - User Interface Improvements: Refine the user interface with a more polished design, including buttons, backgrounds, and roll history
 - Save and Load Rolls: Implement a feature to save and load previous rolls, allowing users to review their roll history.
+- Mobile Optimization: Optimize the dice roll functionality for mobile devices, ensuring a seamless experience across different screen sizes.
   
