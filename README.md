@@ -12,6 +12,5 @@
 - Implement a feature to save and load previous rolls, allowing users to review their roll history.
 # Mobile Optimization:
 - Optimize the dice roll functionality for mobile devices, ensuring a seamless experience across different screen sizes.
-# Multiplayer Mode:
-- Develop a multiplayer mode where multiple users can roll dice and compete against each other, with real-time score updates.
+
   
